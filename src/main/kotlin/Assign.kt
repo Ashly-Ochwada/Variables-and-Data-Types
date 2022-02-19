@@ -3,11 +3,11 @@ fun main ()
 {
     var name = "Ashly Ochwada"
     println(name)
-    var age = "19"
+    var age = 19
     println(age)
-    var phoneNumber = "0758862979"
+    var phoneNumber = 758862979
     println(phoneNumber)
-    var weight = "54"
+    var weight = 54
     println(weight)
 
     val isKenyan: Boolean = true
