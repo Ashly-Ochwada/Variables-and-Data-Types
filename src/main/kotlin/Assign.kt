@@ -1,13 +1,13 @@
 fun main ()
 
 {
-    var name = "Ashly Ochwada"
+    var name = "kishoiyan charity"
     println(name)
-    var age = 19
+    var age = 45
     println(age)
-    var phoneNumber = 758862979
+    var phoneNumber = 7899758862979
     println(phoneNumber)
-    var weight = 54
+    var weight = 88
     println(weight)
 
     val isKenyan: Boolean = true
