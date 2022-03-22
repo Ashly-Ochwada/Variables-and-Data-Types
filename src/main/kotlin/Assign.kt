@@ -3,7 +3,7 @@ fun main ()
 {
     var name = "Ashly Ochwada"
     println(name)
-    var age = 19
+    var age = 67
     println(age)
     var phoneNumber = 758862979
     println(phoneNumber)
